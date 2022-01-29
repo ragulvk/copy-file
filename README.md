@@ -21,7 +21,7 @@ Anaconda - Python 3.7
 ## PROGRAM:
 ## DEVELOPED BY: RAGUL VK
 ## REGISTER NUMBER: 21003061
-
+~~~
 from shutil import copyfile
 from sys import exit
 
@@ -54,7 +54,7 @@ while True:
         break
     else:
         continue
-
+~~~
 ### OUTPUT:
 ![OUTPUT](output1.jpeg)
 ![output](output2.jpeg)
